@@ -21,3 +21,6 @@ selectionSort(list)
 
 print("Sorted list by Selection method")
 print(list)
+
+
+print("안녕하세요 파일 수정 확인용 출력멘트 입니다.")
